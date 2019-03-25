@@ -13,9 +13,7 @@ A full day introduction to Blogging with WordPress workshop.
 
 ### Quick Links
 
-Instructor Notes: http://ladieslearningcode.github.io/llc-intro-to-wordpress/instructor-notes.html
-
-Preview Slides: http://ladieslearningcode.github.io/llc-intro-to-wordpress/slides.html
+Preview Slides for Calgary Learners: https://5hel2l2y.github.io/llc-intro-to-wordpress/slides.html
 
 
 ### Attributions
